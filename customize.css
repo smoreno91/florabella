@@ -24,7 +24,7 @@
 .navbar a {
   text-decoration:none;
   color:inherit;
-  font-size: 15px;
+  font-size: 13px;
   white-space:nowrap;
 }
 
@@ -2169,7 +2169,7 @@ ul.Grid::after {
   text-transform: uppercase;
   font-weight:normal;
   width:100%;
-  padding: 10px 0;  
+  padding: 10px 0;
   background:rgba(255,255,255,.9);
   color: #d1639c;
   -webkit-animation:navbarPulseF 9s linear infinite;
@@ -2193,7 +2193,7 @@ ul.Grid::after {
   border-right: none;
 }
 
-.navbar li:hover {    
+.navbar li:hover {
   color: #630B42
 }
 
@@ -3215,6 +3215,17 @@ ul.Grid.icon>li{
   animation-delay:-13.6s;
 }
 
+#back-top {
+  background: url(https://img.mfcimg.com/photos2/165/16509371/361-379-592-127-11436282.png) no-repeat scroll 50% 50% #F7CBC9;
+  bottom: 15px;
+  display: block;
+  height: 45px;
+  position: fixed;
+  right: 15px;
+  width: 45px;
+  z-index: 1040;
+  cursor: pointer;
+}
 
 #AboutMe {
   padding-top: 75px;
@@ -3242,7 +3253,7 @@ ul.Grid.icon>li{
   clear: both;
 }
 
-.first-letter-uppercase::first-letter { 
+.first-letter-uppercase::first-letter {
   font-size: 30px;
 }
 
@@ -3288,6 +3299,26 @@ ul.Grid.icon>li{
 .hall-of-fame.honorific-mentions {
   top: 870px;
   left: 130px;
+}
+
+.booby-mountains {
+  position: absolute;
+}
+
+.booty-islands {
+  position: absolute;
+}
+
+.vagical-cave {
+  position: absolute;
+}
+
+.deep-throat-beach {
+  position: absolute;
+}
+
+.cum-bucket-lagoon {
+  position: absolute;
 }
 
 #social-media .custom-content {
