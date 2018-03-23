@@ -3301,24 +3301,44 @@ ul.Grid.icon>li{
   left: 130px;
 }
 
-.booby-mountains {
+.floras-pirate-ship-content {
   position: absolute;
+  font-family: 'Kurale','Verdana';
+  color: #4c2f10;
+  text-align: center;
+}
+
+.floras-pirate-ship-content .title {
+  font-size: 28px;
+}
+
+.floras-pirate-ship-content p {
+  margin: 0 0 3px;
+}
+
+.booby-mountains {
+  left: 175px;
+  top: 540px;
 }
 
 .booty-islands {
-  position: absolute;
+  left: 583px;
+  top: 540px;
 }
 
 .vagical-cave {
-  position: absolute;
+  left: 143px;
+  top: 1004px;
 }
 
 .deep-throat-beach {
-  position: absolute;
+  left: 553px;
+  top: 1004px;
 }
 
 .cum-bucket-lagoon {
-  position: absolute;
+  left: 341px;
+  top: 1490px;
 }
 
 #social-media .custom-content {
